@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Quiz 7 Naija Wonder</string>
+
+    <string name="question1">When was Nigeria founded?</string>
+    <string name="year1">1914</string>
+    <string name="year2">1999</string>
+    <string name="year3">1990</string>
+    <string name="coloursOfNigeria">The following Colours makes up the Nigeria flag?</string>
+    <string name="blue">Blue</string>
+    <string name="white">White</string>
+    <string name="green">Green</string>
+    <string name="mopol_black">Mopol Black</string>
+    <string name="Nigeria_ethnicity">Nigeria has three major ethnic group?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="coal_city_state">Which of these states is also called Coal City?</string>
+    <string name="benin">BENIN</string>
+    <string name="enugu">ENUGU</string>
+    <string name="places_in_Nigeria">The following places can be found in Nigeria?</string>
+    <string name="abuja1">Abuja</string>
+    <string name="accra">Accra</string>
+    <string name="lagos1">Lagos</string>
+    <string name="sambisa">Sambisa</string>
+    <string name="whats_the_capital_of_nigeria">Whats the capital of Nigeria?</string>
+    <string name="lagos">Lagos</string>
+    <string name="ibadan">Ibadan</string>
+    <string name="abuja">Abuja</string>
+    <string name="in_which_state_is_the_teslim_balogun_stadium_located">In which State is the Teslim balogun stadium located?</string>
+    <string name="state_name">Answer</string>
+    <string name="view_score">View Score</string>
+    <string name="restart">Retake Quiz</string>
+    <string name="question">QUESTION:</string>
+    <string name="welcome">WELCOME HOME</string>
+    <string name="l_o_a_d_i_n_g">l o a d i n g . . .</string>
+</resources>
